@@ -14,6 +14,9 @@
 * CRIE UM REPOSITÓRIO REMOTO E NOMEIE COM MODELO_TELA;
 
 
+![Imagem do codigo](assets/Modelo_Tela.png)
+
+
 
 ## 🛠️ Construído com
 
